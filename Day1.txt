@@ -1,0 +1,4 @@
+Today i have learned the conversions of hex, octal, and decimal. I have also learned how to move around directorys using the git bash program. 
+now i see how engineers communicate when they use one project, instead of waiting on one person to finish up the update.
+Its definetly more time consuming. I will go through homework and make sure i know python, html and javascript, at least the basics.
+Tommorrow we will begin two programs, i am so excited to write some basic mean code! Day one has gone by fast and i feel like working a 4 hour shift at kohls is longer then today.
