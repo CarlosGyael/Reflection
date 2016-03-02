@@ -1,0 +1,6 @@
+Today i learned a bunch of html code, knowing the import difference between <div> and <table> 
+i now know how to manipulate certain parts of my html page. I have also learned how to use networking 
+commands and how networking works. this will help when i cant find my ip and how to fix that. 
+It applies to everything else i learned about networking/html. I love how many doors there are to open with programming.
+Html is all about visual comfort and proffesional displays. There really was alot of information today but with some power point
+reviews tonight i think i am able to grasp these commands. This is only day 2 of my tough journey..
