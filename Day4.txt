@@ -1,0 +1,5 @@
+Today we added on our java adventure. I cant believe we get 2 more hours of break on fridays!
+My adventure story was "fenominal" said by the java instructor Mike. I believe it is too but there is always
+ something to progress. i can make it even more simple by making more classes. i also made the mistake
+ of putting alot of functions within functions. example: if statements within more if statements. i need to break out of 
+ those and make my application easier readable.
