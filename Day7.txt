@@ -1,0 +1,3 @@
+Today i finished my robot poroject at exactly 10 am. today i currently learned how to use
+arrays and lists. and when / how to use them appropritely. I also started the skeleton part
+of my dice project.
