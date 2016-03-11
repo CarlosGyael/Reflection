@@ -1,0 +1,3 @@
+Today i turned finally finished happy numbers asignment although it took a  bit of research. 
+i easly understand how happy numbers work but to write it and configure the loops on java is alot
+more different. i started the example practice for mondays exam. i will have alll of them finished by monday.
