@@ -1,0 +1,3 @@
+Today i started messing with visual studios for the first time. quite interesting what positive and negative differences are betweeln visual and java
+i also found interesting what object oriented programming means. i will look further into these topics
+for easier future "clicks" i also added to my ideas folder for future projects.
