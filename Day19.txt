@@ -1,0 +1,3 @@
+Today i started to implement player 2 mode all day, i changed some paths and added some new variables.
+it was relatively easy but a bit tedious. i should start making sure my methods do one thing and do 
+it well. -andrew

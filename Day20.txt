@@ -1,0 +1,3 @@
+Today i fixed alot of bugs within player one and two mode. it was mostly because i rushed player 2 mode.
+but over all not too bad for ugly code. i had a lecture today on security and what to be aware of.
+i will study this throughout the week and know it all by next week friday!
